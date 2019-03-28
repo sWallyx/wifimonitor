@@ -12,3 +12,4 @@ class color:
 
 class interface:
     name = ''
+    scantime = 2
